@@ -14,6 +14,12 @@ masuk ke dalam folder projek , kemudian
 npm install
 ```
 
+### Run Menggunakan CLI
+Dengan babel node
+```
+babel-node contoh.js
+```
+
 ### Compile 
 Compile dari format es6 kedalam javascript biasa agar bisa digunakan oleh browser jaman old :new_moon_with_face:
 ```

@@ -1,7 +1,6 @@
 "use strict";
 
-var ivan = function ivan() {
-  return console.log("Awesomeness");
-};
+// const ivan = "ganteng"
+// ivan = "Ganteng 2.0"
 
-ivan();
+console.log(ivan);
